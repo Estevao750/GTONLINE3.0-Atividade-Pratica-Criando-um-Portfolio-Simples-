@@ -1,0 +1,32 @@
+body{
+    font-family: 'Inter', sans-serif;
+    padding: 0px;
+    margin: 50px;
+    background-color: #0F172A;
+}
+.habi1{
+    color: #38BDF8;
+    font-size: 18px;
+    margin-left: 20px;
+}
+.habi2{
+    color: #A855F7;
+    font-size: 18px;
+    margin-left: 20px;
+}
+.habi3{
+    color: #10B981;
+    font-size: 18px;
+    margin-left: 20px;
+}
+.habi4{
+    color: #F59E0B;
+    font-size: 18px;
+    margin-left: 20px;
+}
+.bio p{
+    color: #F8FAFC;
+    font-size: 20px;
+    margin: auto;
+    padding: auto;
+}
